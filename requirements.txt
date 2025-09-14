@@ -1,0 +1,4 @@
+datasets
+faiss-cpu
+sentence-transformers
+scikit-learn
